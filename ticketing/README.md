@@ -2,7 +2,7 @@
 
 # Posts and Comments
 
-This project is to add posts and comments.
+This project is for ticketing system.
 
 # Pre-requisites
 
